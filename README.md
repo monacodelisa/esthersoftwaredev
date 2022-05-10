@@ -4,7 +4,7 @@
 <p>Finally a notmal HTML Page </p>
 
 
-- 🌱 I’m currently learning <h2> JavaScript & React </h2>
+- 🌱 I’m currently practicing <h2> JavaScript </h2> and I am getting familliar with <h2>React</h2>
 
 <!--
 **esteecodes/EsteeCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
