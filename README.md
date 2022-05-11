@@ -27,7 +27,6 @@
     </tr>
     <tr></tr>
     <tr>
-      <td>HTML</td>
       <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/html5.png?raw=true"> HTML </td>
       <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/progress-bar-small/progress-bar-95.png?raw=true"></td>
     </tr>
