@@ -2,11 +2,33 @@
 
 <h1>Hello World</h1>
 <br/>
-<h4>I’m currently practicing:<h4>
- <ul>
- <li><h2>JavaScript </h2></li>
-   <li><h2>React</h2></li>
-  </ul>
+<table width="100%">
+    <tr>
+      <th colspan="2"><h3>Skills</h3></th>     
+    </tr>
+    <tr>
+      <td>JavaScript</td>
+      <td><img src="https://github.com/esteecodes/icons/blob/main/icomoon/PNG/tiktok.png?raw=true"></td>
+    </tr>
+    <tr></tr>
+    <tr>
+      <td>jQuery</td>
+      <td><label for="file"></label>
+      <progress id="file" value="80" max="100"> 80% </progress></td>
+    </tr>
+    <tr></tr>
+    <tr>
+      <td>CSS / SASS</td>
+      <td><label for="file"></label>
+      <progress id="file" value="85" max="100"> 85% </progress></td>
+    </tr>
+    <tr></tr>
+    <tr>
+      <td>HTML</td>
+      <td><label for="file"></label>
+      <progress id="file" value="95" max="100"> 95% </progress></td>
+    </tr>
+</table>
 <br/>
 <h3>Connect with me on Social Media ↓</h3>
 <br/>
