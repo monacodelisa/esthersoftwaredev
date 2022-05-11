@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <h1>Hello World</h1>
-<p>Finally a notmal HTML Page </p>
 
 
 - 🌱 I’m currently practicing <h2> JavaScript </h2> and I am getting familliar with <h2>React</h2>
