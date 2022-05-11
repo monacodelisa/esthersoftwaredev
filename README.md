@@ -2,6 +2,10 @@
 
 <h1>Frontend Web Developer</h1>
 <br/>
+I started getting into web development in 2020, 
+and below you can see the skills that I have so far.
+<br/>
+<br/>
 <table width="100%">
     <tr>
       <th><h3>Skill</h3></th>   
@@ -36,6 +40,28 @@
       <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/html5.png?raw=true"> HTML </td>
       <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/progress-bar-small/progress-bar-95.png?raw=true"></td>
       <td> 2 years</td>  
+    </tr>
+</table>
+<br/>
+Before I got into Frontend programming, I worked as a freelance photographer,<br/> 
+photo & video editor, graphic designer, and throughout that time I acquired<br/> 
+some additional skills.
+<br/><br/>
+<table width="100%">
+    <tr>
+      <th><h3>Skill</h3></th>   
+      <th><h3>Proficiency</h3></th>  
+      <th><h3>Experience</h3></th>  
+    </tr>
+    <tr>
+      <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/adobephotoshop.png?raw=true"> Adobe Photoshop </td>
+      <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/progress-bar-small/progress-bar-95.png?raw=true"></td>
+      <td> 10 years</td>  
+    </tr>
+     <tr>
+      <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/adobeillustrator.png?raw=true"> Adobe Illustrator </td>
+      <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/progress-bar-small/progress-bar-55.png?raw=true"></td>
+      <td> 4 years</td>  
     </tr>
 </table>
 <br/>
