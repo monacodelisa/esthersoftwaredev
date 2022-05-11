@@ -8,7 +8,7 @@
     </tr>
     <tr>
       <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/javascript.png?raw=true"> JavaScript </td>
-      <td><img src="https://github.com/esteecodes/icons/blob/main/icomoon/PNG/tiktok.png?raw=true"></td>
+      <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/progress-bar-small/progress-bar-55.png?raw=true"></td>
     </tr>
     <tr></tr>
     <tr>
