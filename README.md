@@ -1,16 +1,15 @@
 ### Hi there 👋
 
 <h1>Hello World</h1>
-
-
+<br/>
 <h4>I’m currently practicing:<h4>
  <ul>
  <li><h2>JavaScript </h2></li>
    <li><h2>React</h2></li>
   </ul>
-
-<h3>Connect with me on Social Media</h3>
-
+<br/>
+<h3>Connect with me on Social Media ↓</h3>
+<br/>
 <a href="https://www.linkedin.com/in/esteecodes/" target="_blanc"><img src="https://github.com/esteecodes/icons/blob/main/icomoon/PNG/linkedin.png?raw=true"></a>
 <a href="https://codepen.io/esteecodes" target="_blanc"><img src="https://github.com/esteecodes/icons/blob/main/icomoon/PNG/codepen.png?raw=true"></a>
 <a href="https://www.codecademy.com/profiles/esteecodes" target="_blanc"><img src="https://github.com/esteecodes/icons/blob/main/icomoon/PNG/codecademy.png?raw=true"></a>
