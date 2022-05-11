@@ -11,31 +11,31 @@
     <tr>
       <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/javascript.png?raw=true"> JavaScript </td>
       <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/progress-bar-small/progress-bar-55.png?raw=true"></td>
-      <td>1 year</td>  
+      <td> 1 year</td>  
     </tr>
     <tr></tr>
     <tr>
       <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/jquery.png?raw=true"> jQuery </td>
       <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/progress-bar-small/progress-bar-80.png?raw=true"></td>
-      <td>1 year</td>    
+      <td> 1 year</td>    
     </tr>
     <tr></tr>
     <tr>
       <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/sass.png?raw=true"> SASS </td>
       <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/progress-bar-small/progress-bar-85.png?raw=true"></td>
-      <td>2 years</td>  
+      <td> 2 years</td>  
     </tr>
     <tr></tr>
     <tr>
       <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/css3.png?raw=true"> CSS </td>
       <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/progress-bar-small/progress-bar-85.png?raw=true"></td>
-      <td>2 years</td>  
+      <td> 2 years</td>  
     </tr>
     <tr></tr>
     <tr>
       <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/html5.png?raw=true"> HTML </td>
       <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/progress-bar-small/progress-bar-95.png?raw=true"></td>
-      <td>2 years</td>  
+      <td> 2 years</td>  
     </tr>
 </table>
 <br/>
