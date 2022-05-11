@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Estee and I am a
+### Hi there 👋 I'm Estee and I am a -
 
 <h1>Frontend Web Developer</h1>
 <br/>
