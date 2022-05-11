@@ -7,7 +7,7 @@
       <th colspan="2"><h3>Skills</h3></th>     
     </tr>
     <tr>
-      <td>JavaScript</td>
+      <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/javascript.png?raw=true"> JavaScript </td>
       <td><img src="https://github.com/esteecodes/icons/blob/main/icomoon/PNG/tiktok.png?raw=true"></td>
     </tr>
     <tr></tr>
