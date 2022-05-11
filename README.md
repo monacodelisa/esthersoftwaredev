@@ -3,9 +3,14 @@
 <h1>Hello World</h1>
 
 
-- 🌱 I’m currently practicing <h2> JavaScript </h2> and I am getting familliar with <h2>React</h2>
+<h4>I’m currently practicing:<h4>
+ <ul>
+ <li><h2>JavaScript </h2></li>
+   <li><h2>React</h2></li>
+  </ul>
 
-<a href="https://codepen.io/esteecodes"><img src="https://github.com/esteecodes/icons/blob/main/icomoon/PNG/codepen.png?raw=true"></a>
+<h3>Connect with me on Social Media</h3>
+
 <a href="https://www.linkedin.com/in/esteecodes/" target="_blanc"><img src="https://github.com/esteecodes/icons/blob/main/icomoon/PNG/linkedin.png?raw=true"></a>
 <a href="https://codepen.io/esteecodes" target="_blanc"><img src="https://github.com/esteecodes/icons/blob/main/icomoon/PNG/codepen.png?raw=true"></a>
 <a href="https://www.codecademy.com/profiles/esteecodes" target="_blanc"><img src="https://github.com/esteecodes/icons/blob/main/icomoon/PNG/codecademy.png?raw=true"></a>
