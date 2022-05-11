@@ -27,15 +27,9 @@
     </tr>
     <tr></tr>
     <tr>
-      <td>CSS / SASS</td>
-      <td><label for="file"></label>
-      <progress id="file" value="85" max="100"> 85% </progress></td>
-    </tr>
-    <tr></tr>
-    <tr>
       <td>HTML</td>
-      <td><label for="file"></label>
-      <progress id="file" value="95" max="100"> 95% </progress></td>
+      <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/html5.png?raw=true"> HTML </td>
+      <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/progress-bar-small/progress-bar-95.png?raw=true"></td>
     </tr>
 </table>
 <br/>
