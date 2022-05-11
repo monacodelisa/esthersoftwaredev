@@ -1,34 +1,41 @@
-### Hi there 👋
+### Hi there 👋 I'm Estee and I am a
 
-<h1>Hello World</h1>
+<h1>Frontend Web Developer</h1>
 <br/>
 <table width="100%">
     <tr>
-      <th colspan="2"><h3>Skills</h3></th>     
+      <th><h3>Skill</h3></th>   
+      <th><h3>Proficiency</h3></th>  
+      <th><h3>Experience</h3></th>  
     </tr>
     <tr>
       <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/javascript.png?raw=true"> JavaScript </td>
       <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/progress-bar-small/progress-bar-55.png?raw=true"></td>
+      <td>1 year</td>  
     </tr>
     <tr></tr>
     <tr>
       <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/jquery.png?raw=true"> jQuery </td>
       <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/progress-bar-small/progress-bar-80.png?raw=true"></td>
+      <td>1 year</td>    
     </tr>
     <tr></tr>
     <tr>
       <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/sass.png?raw=true"> SASS </td>
       <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/progress-bar-small/progress-bar-85.png?raw=true"></td>
+      <td>2 years</td>  
     </tr>
     <tr></tr>
     <tr>
       <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/css3.png?raw=true"> CSS </td>
       <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/progress-bar-small/progress-bar-85.png?raw=true"></td>
+      <td>2 years</td>  
     </tr>
     <tr></tr>
     <tr>
       <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/html5.png?raw=true"> HTML </td>
       <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/progress-bar-small/progress-bar-95.png?raw=true"></td>
+      <td>2 years</td>  
     </tr>
 </table>
 <br/>
