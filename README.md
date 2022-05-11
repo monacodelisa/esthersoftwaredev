@@ -12,9 +12,18 @@
     </tr>
     <tr></tr>
     <tr>
-      <td>jQuery</td>
-      <td><label for="file"></label>
-      <progress id="file" value="80" max="100"> 80% </progress></td>
+      <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/jquery.png?raw=true"> jQuery </td>
+      <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/progress-bar-small/progress-bar-80.png?raw=true"></td>
+    </tr>
+    <tr></tr>
+    <tr>
+      <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/sass.png?raw=true"> SASS </td>
+      <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/progress-bar-small/progress-bar-85.png?raw=true"></td>
+    </tr>
+    <tr></tr>
+    <tr>
+      <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/css3.png?raw=true"> CSS </td>
+      <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/progress-bar-small/progress-bar-85.png?raw=true"></td>
     </tr>
     <tr></tr>
     <tr>
