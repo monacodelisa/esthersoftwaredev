@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 style="color:blue;text-align:center;">Hello World</h1>
+<h1>Hello World</h1>
 <p>Finally a notmal HTML Page </p>
 
 
