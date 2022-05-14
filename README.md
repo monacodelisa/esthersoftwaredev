@@ -44,6 +44,7 @@ and below you can see the skills that I am focusing on.
 </table>
 <br/>
 <hr>
+<h3>some of</h3>
 <h2>My Repos</h2>
 <ul>
 <li>Jan 30, 2022 - <a href="https://esteecodes.github.io/Company-Home-Page-with-Flexbox-Frontend-Engeneer-CodeCademy/" target="_blank"><strong>Company Home Page with Flexbox</strong></a> <a href="https://github.com/esteecodes/Company-Home-Page-with-Flexbox-Frontend-Engeneer-CodeCademy" target="_blank">[Code]</a> <img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/css-html.png?raw=true"></li>
