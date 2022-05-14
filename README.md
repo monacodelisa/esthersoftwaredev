@@ -2,8 +2,7 @@
 
 <h1>Frontend Web Developer</h1>
 <br/>
-I started getting into web development in 2020, 
-and below you can see the skills that I am focusing on.
+I started getting into web development in 2020, below you can see <br>the skills that I have been learning and focusing on.
 <br/>
 <br/>
 <table width="100%">
