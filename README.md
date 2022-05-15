@@ -65,7 +65,7 @@ I started getting into web development in 2020, below you can see <br>the skills
 <p>Before I got into Frontend programming, I worked as a freelance photographer,<br/> 
 photo & video editor, graphic designer, and throughout that time I acquired<br/> 
 some additional skills.</p>
-<br/><br/>
+<br/>
 <table width="100%">
     <tr>
       <th><h3>Skill</h3></th>   
