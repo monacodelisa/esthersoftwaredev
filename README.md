@@ -61,11 +61,10 @@ I started getting into web development in 2020, below you can see <br>the skills
 <li>Oct 02, 2021 - <a href="https://esteecodes.github.io/bootstrap5-Hebrew-blog-rtl/" target="_blank"><strong>Bootstrap5 RTL Hebrew Blog</strong></a> <a href="https://github.com/esteecodes/bootstrap5-Hebrew-blog-rtl" target="_blank">[Code]</a> <img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/bootstrap-css-html.png?raw=true"></li>
 <li>May 01, 2020 - <a href="https://esteecodes.github.io/HTML-CSS-JS-Coursera/" target="_blank"><strong>HTML, CSS and JavaScript for Web Developers</strong></a> <a href="https://github.com/esteecodes/HTML-CSS-JS-Coursera" target="_blank">[Code]</a> <img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/js-css-html-16px.png?raw=true"></li>
 </ul>
-
-
-Before I got into Frontend programming, I worked as a freelance photographer,<br/> 
+<hr>
+<p>Before I got into Frontend programming, I worked as a freelance photographer,<br/> 
 photo & video editor, graphic designer, and throughout that time I acquired<br/> 
-some additional skills.
+some additional skills.</p>
 <br/><br/>
 <table width="100%">
     <tr>
