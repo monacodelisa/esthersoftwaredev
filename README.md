@@ -1,7 +1,7 @@
 #### Hi there 👋 I'm Estee and I am a -
 
-<h2>Frontend Web Developer</h2>
-<h4> My Skills ↓<h4>
+<h1>Frontend Web Developer</h1>
+<h4> Working with the following Technologies ↓<h4>
 <table width="100%">
     <tr>
       <th><h3>Skill</h3></th>   
