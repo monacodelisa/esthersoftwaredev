@@ -1,10 +1,7 @@
-### Hi there 👋 I'm Estee and I am a -
+#### Hi there 👋 I'm Estee and I am a -
 
-<h1>Frontend Web Developer</h1>
-<br/>
-I started getting into web development in 2020, below you can see <br>the skills that I have been learning and focusing on.
-<br/>
-<br/>
+<h2>Frontend Web Developer</h2>
+<h4> My Skills ↓<h4>
 <table width="100%">
     <tr>
       <th><h3>Skill</h3></th>   
@@ -43,13 +40,13 @@ I started getting into web development in 2020, below you can see <br>the skills
 </table>
 <br/>
 <hr>
-<h2>Some of my Projects</h2>
+<h2>Some of my Projects ↓</h2>
 <ul>
 <li>Sep 15, 2021 - <a href="https://esteecodes.github.io/EdgeLedger/" target="_blank"><strong>EdgeLedger</strong></a> <a href="https://github.com/esteecodes/EdgeLedger" target="_blank">[Code]</a> <img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/jQuery-js-css-html.png?raw=true"></li>
 <li>Jun 16, 2020 - <a href="https://esteecodes.github.io/Colmar-Academy/" target="_blank"><strong>Colmar Academy</strong></a> <a href="https://github.com/esteecodes/Colmar-Academy" target="_blank">[Code]</a> <img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/css-html.png?raw=true"></li>
 </ul>
 <hr>
-<h3>Some of my other Repos</h3>
+<h3>Some of my other Repos ↓</h3>
 <ul>
 <li>Jan 30, 2022 - <a href="https://esteecodes.github.io/Company-Home-Page-with-Flexbox-Frontend-Engeneer-CodeCademy/" target="_blank"><strong>Company Home Page with Flexbox</strong></a> <a href="https://github.com/esteecodes/Company-Home-Page-with-Flexbox-Frontend-Engeneer-CodeCademy" target="_blank">[Code]</a> <img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/css-html.png?raw=true"></li>
 <li>Jan 16, 2022 - <a href="https://esteecodes.github.io/Learn-jQuery-CodeCademy/" target="_blank"><strong>Learn jQuery - CodeCademy</strong></a> <a href="https://github.com/esteecodes/Learn-jQuery-CodeCademy" target="_blank">[Code]</a> <img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/jQuery-js-css-html.png?raw=true"></li>
