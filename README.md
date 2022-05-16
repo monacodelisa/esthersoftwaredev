@@ -42,6 +42,7 @@
 <hr>
 <h2>Some of my Projects ↓</h2>
 <ul>
+<li>May 15, 2022 - <a href="https://esteecodes.github.io/Speech-Text-Reader/" target="_blank"><strong>Speech Text Reader</strong></a> <a href="https://github.com/esteecodes/Speech-Text-Reader" target="_blank">[Code]</a> <img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/jQuery-js-css-html.png?raw=true"></li>
 <li>Sep 15, 2021 - <a href="https://esteecodes.github.io/EdgeLedger/" target="_blank"><strong>EdgeLedger</strong></a> <a href="https://github.com/esteecodes/EdgeLedger" target="_blank">[Code]</a> <img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/jQuery-js-css-html.png?raw=true"></li>
 <li>Jun 16, 2020 - <a href="https://esteecodes.github.io/Colmar-Academy/" target="_blank"><strong>Colmar Academy</strong></a> <a href="https://github.com/esteecodes/Colmar-Academy" target="_blank">[Code]</a> <img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/css-html.png?raw=true"></li>
 </ul>
