@@ -47,24 +47,7 @@
 <li>Jun 16, 2020 - <a href="https://esteecodes.github.io/Colmar-Academy/" target="_blank"><strong>Colmar Academy</strong></a> <a href="https://github.com/esteecodes/Colmar-Academy" target="_blank">[Code]</a> <img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/css-html.png?raw=true"></li>
 </ul>
 <hr>
-<h3>Some of my other Repos ↓</h3>
-<ul>
-<li>May 14, 2022 - <a href="https://esteecodes.github.io/Tax-Calculator-module-1-assignment-edureca/" target="_blank"><strong>Income Tax Calculator</strong></a> <a href="https://github.com/esteecodes/Tax-Calculator-module-1-assignment-edureca" target="_blank">[Code]</a> <img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/js-sass-html-16px.png?raw=true"></li>
-<li>May 10, 2022 - <a href="https://esteecodes.github.io/JS-course-6-proj-Kalob-Final-Project/" target="_blank"><strong>JavaScript Moving Letters</strong></a> <a href="https://github.com/esteecodes/JS-course-6-proj-Kalob-Final-Project" target="_blank">[Code]</a> <img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/js-sass-html-16px.png?raw=true"></li>
-<li>Jan 30, 2022 - <a href="https://esteecodes.github.io/Company-Home-Page-with-Flexbox-Frontend-Engeneer-CodeCademy/" target="_blank"><strong>Company Home Page with Flexbox</strong></a> <a href="https://github.com/esteecodes/Company-Home-Page-with-Flexbox-Frontend-Engeneer-CodeCademy" target="_blank">[Code]</a> <img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/css-html.png?raw=true"></li>
-<li>Jan 16, 2022 - <a href="https://esteecodes.github.io/Learn-jQuery-CodeCademy/" target="_blank"><strong>Learn jQuery - CodeCademy</strong></a> <a href="https://github.com/esteecodes/Learn-jQuery-CodeCademy" target="_blank">[Code]</a> <img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/jQuery-js-css-html.png?raw=true"></li>
-<li>Dec 21, 2021 - <a href="https://esteecodes.github.io/Vanilla-JS-Calculator-CSS-Flexbox-Grid-21.12.2021//" target="_blank"><strong>Vanilla JS Calculator</strong></a> <a href="https://github.com/esteecodes/Vanilla-JS-Calculator-CSS-Flexbox-Grid-21.12.2021" target="_blank">[Code]</a> <img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/js-css-html-16px.png?raw=true"></li>
-<li>Dec 30, 2021 - <a href="https://esteecodes.github.io/Hamburger-Menu-3-Versions-CSS-Transitions-30.12.21/" target="_blank"><strong>Hamburger Menu 3 Versions CSS Transitions</strong></a> <a href="https://github.com/esteecodes/Hamburger-Menu-3-Versions-CSS-Transitions-30.12.21" target="_blank">[Code]</a> <img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/css-html.png?raw=true"></li>
-<li>Dec 04, 2021 - <a href="https://esteecodes.github.io/CSS-Transitions-CodeCademy/3-Project-Transitions-20,000-Leagues-Under-the-Sea/" target="_blank"><strong>CSS Transitions - 20,000 Leagues Under the Sea - CodeCademy</strong></a> <a href="https://github.com/esteecodes/CSS-Transitions-CodeCademy" target="_blank">[Code]</a> <img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/css-html.png?raw=true"></li>
-<li>Dec 02, 2021 - <a href="https://esteecodes.github.io/The-Ultimate-2022-Fullstack-Web-Dev-Bootcamp-Kalob-Udemy/" target="_blank"><strong>The Ultimate 2022 Fullstack Web Development Bootcamp - Udemy</strong></a> <a href="https://github.com/esteecodes/The-Ultimate-2022-Fullstack-Web-Dev-Bootcamp-Kalob-Udemy" target="_blank">[Code]</a> <img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/css-html.png?raw=true"></li>
-<li>Oct 30, 2021 - <a href="https://esteecodes.github.io/Learn-HTML-CodeCademy/Form-a-Story/" target="_blank"><strong>'Form a Story' Learn HTML - CodeCademy</strong></a> <a href="https://github.com/esteecodes/Learn-HTML-CodeCademy" target="_blank">[Code]</a> <img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/js-css-html-16px.png?raw=true"></li>
-<li>Oct 22, 2021 - <a href="https://esteecodes.github.io/Frontend-Mentor/" target="_blank"><strong>Frontend Mentor Challenges</strong></a> <a href="https://github.com/esteecodes/Frontend-Mentor" target="_blank">[Code]</a> <img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/css-html.png?raw=true"></li>
-<li>Oct 02, 2021 - <a href="https://esteecodes.github.io/bootstrap5-Hebrew-blog-rtl/" target="_blank"><strong>Bootstrap5 RTL Hebrew Blog</strong></a> <a href="https://github.com/esteecodes/bootstrap5-Hebrew-blog-rtl" target="_blank">[Code]</a> <img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/bootstrap-css-html.png?raw=true"></li>
-<li>June 16, 2020 - <a href="https://esteecodes.github.io/Build-a-Website-with-HTML-CSS-and-Github-Pages-CodeCademy/" target="_blank"><strong>Build a Website with HTML, CSS and Github Pages - CodeCademy</strong></a> <a href="https://github.com/esteecodes/Build-a-Website-with-HTML-CSS-and-Github-Pages-CodeCademy" target="_blank">[Code]</a> <img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/css-html.png?raw=true"></li>
-<li>May 09, 2020 - <a href="https://esteecodes.github.io/Analog-Clock/" target="_blank"><strong>JS Analog Clock</strong></a> <a href="https://github.com/esteecodes/Analog-Clock" target="_blank">[Code]</a> <img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/js-sass-html-16px.png?raw=true"></li>
-<li>May 01, 2020 - <a href="https://esteecodes.github.io/HTML-CSS-JS-Coursera/" target="_blank"><strong>HTML, CSS and JavaScript for Web Developers</strong></a> <a href="https://github.com/esteecodes/HTML-CSS-JS-Coursera" target="_blank"> [Code]</a> <img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/js-css-html-16px.png?raw=true"></li>
-</ul>
-<hr>
+
 <p>Before I got into Frontend programming, I worked as a freelance photographer,<br/> 
 photo & video editor, graphic designer, and throughout that time I acquired<br/> 
 some additional skills.</p>
@@ -85,7 +68,7 @@ some additional skills.</p>
       <td> 4 years</td>  
     </tr>
 </table>
-<br/>
+<br>
 <h3>Connect with me on Social Media ↓</h3>
 <br/>
 <a href="https://www.linkedin.com/in/esteecodes/" target="_blank"><img src="https://github.com/esteecodes/icons/blob/main/icomoon/PNG/linkedin.png?raw=true"></a>
@@ -100,6 +83,8 @@ some additional skills.</p>
 <a href="https://twitter.com/esteecodes" target="_blank"><img src="https://github.com/esteecodes/icons/blob/main/icomoon/PNG/twitter.png?raw=true"></a>
 <br><br><br>
 <a href='https://ko-fi.com/esteecodes' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+<h2>Some of my other Repos ↓</h2>
 
 <!--
 **esteecodes/EsteeCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
