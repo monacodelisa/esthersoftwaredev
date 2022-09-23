@@ -11,7 +11,7 @@
     <tr>
       <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/angular.png?raw=true"> Angular </td>
       <td><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/progress-bar-small/progress-bar-40.png?raw=true"></td>
-      <td> 2 months</td>  
+      <td> 4 months</td>  
     </tr>
     <tr></tr>
     <tr>
