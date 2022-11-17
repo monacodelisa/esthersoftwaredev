@@ -1,6 +1,14 @@
 #### Hi there 👋 I'm Estee and I am a -
 
 <h1>Frontend Web Developer</h1>
+
+
+<h3><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/angular.png?raw=true"> My Angular Projects ↓</h3>
+<hr>
+<ul>
+<li>Nov 17, 2022 - <a href="https://collab-match.web.app/" target="_blank"><strong>Collab Match</strong></a></li>
+</ul>
+<hr>
 <h4> Working with the following Technologies ↓<h4>
 <table width="100%">
     <tr>
@@ -46,7 +54,7 @@
 </table>
 <br/>
 <hr>
-<h2>Some of my Projects ↓</h2>
+<h2>Some of my Older Projects ↓</h2>
 <ul>
 <li>May 15, 2022 - <a href="https://esteecodes.github.io/Speech-Text-Reader/" target="_blank"><strong>Speech Text Reader</strong></a> <a href="https://github.com/esteecodes/Speech-Text-Reader" target="_blank">[Code]</a> <img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/js-sass-html-16px.png?raw=true"></li>
 <li>Sep 15, 2021 - <a href="https://esteecodes.github.io/EdgeLedger/" target="_blank"><strong>EdgeLedger</strong></a> <a href="https://github.com/esteecodes/EdgeLedger" target="_blank">[Code]</a> <img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/jQuery-js-css-html.png?raw=true"></li>
