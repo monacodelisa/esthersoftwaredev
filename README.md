@@ -6,7 +6,7 @@
 <h3><img src="https://github.com/esteecodes/icons-and-graphics/blob/main/icomoon/programming/PNG/angular.png?raw=true"> My Angular Projects ↓</h3>
 <hr>
 <ul>
-<li>Nov 17, 2022 - <a href="https://collab-match.web.app/" target="_blank"><strong>Collab Match</strong></a></li>
+<li><h3>Nov 17, 2022 - <a href="https://collab-match.web.app/" target="_blank"><strong>Collab Match</strong></a></h3></li>
 </ul>
 <hr>
 <h4> Working with the following Technologies ↓<h4>
