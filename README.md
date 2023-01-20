@@ -85,7 +85,7 @@ some additional skills.</p>
     </tr>
 </table>
 <br>
-<h3>Connect with me on Social Media ↓</h3>
+<!-- <h3>Connect with me on Social Media ↓</h3>
 <br/>
 <a href="https://www.linkedin.com/in/monacodelisa/" target="_blank"><img src="https://github.com/monacodelisa/icons/blob/main/icomoon/PNG/linkedin.png?raw=true"></a>
 <a href="https://codepen.io/monacodelisa" target="_blank"><img src="https://github.com/monacodelisa/icons/blob/main/icomoon/PNG/codepen.png?raw=true"></a>
@@ -100,7 +100,7 @@ some additional skills.</p>
 <a href='https://ko-fi.com/monacodelisa' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 <br>
 <br>
-<h2>Some of my other Repos ↓</h2>
+<h2>Some of my other Repos ↓</h2> -->
 
 <!--
 **esteecodes/EsteeCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
