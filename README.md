@@ -11,51 +11,7 @@
 </li>
 </ul>
 <hr>
-<h4> Working with the following Technologies ↓<h4>
-<table width="100%">
-    <tr>
-      <th><h3>Skill</h3></th>   
-      <th><h3>Proficiency</h3></th>  
-      <th><h3>Experience</h3></th>  
-    </tr>
-    <tr>
-      <td><img src="https://github.com/monacodelisa/icons-and-graphics/blob/main/icomoon/programming/PNG/angular.png?raw=true"> Angular </td>
-      <td><img src="https://github.com/monacodelisa/icons-and-graphics/blob/main/progress-bar-small/progress-bar-40.png?raw=true"></td>
-      <td> 0.5 years</td>  
-    </tr>
-    <tr></tr>
-    <tr>
-      <td><img src="https://github.com/monacodelisa/icons-and-graphics/blob/main/icomoon/programming/PNG/javascript.png?raw=true"> JavaScript </td>
-      <td><img src="https://github.com/monacodelisa/icons-and-graphics/blob/main/progress-bar-small/progress-bar-65.png?raw=true"></td>
-      <td> 1 year</td>  
-    </tr>
-    <tr></tr>
-    <tr>
-      <td><img src="https://github.com/monacodelisa/icons-and-graphics/blob/main/icomoon/programming/PNG/jquery.png?raw=true"> jQuery </td>
-      <td><img src="https://github.com/monacodelisa/icons-and-graphics/blob/main/progress-bar-small/progress-bar-80.png?raw=true"></td>
-      <td> 1 year</td>    
-    </tr>
-    <tr></tr>
-    <tr>
-      <td><img src="https://github.com/monacodelisa/icons-and-graphics/blob/main/icomoon/programming/PNG/sass.png?raw=true"> SASS </td>
-      <td><img src="https://github.com/monacodelisa/icons-and-graphics/blob/main/progress-bar-small/progress-bar-85.png?raw=true"></td>
-      <td> 2 years</td>  
-    </tr>
-    <tr></tr>
-    <tr>
-      <td><img src="https://github.com/monacodelisa/icons-and-graphics/blob/main/icomoon/programming/PNG/css3.png?raw=true"> CSS </td>
-      <td><img src="https://github.com/monacodelisa/icons-and-graphics/blob/main/progress-bar-small/progress-bar-85.png?raw=true"></td>
-      <td> 2 years</td>  
-    </tr>
-    <tr></tr>
-    <tr>
-      <td><img src="https://github.com/monacodelisa/icons-and-graphics/blob/main/icomoon/programming/PNG/html5.png?raw=true"> HTML </td>
-      <td><img src="https://github.com/monacodelisa/icons-and-graphics/blob/main/progress-bar-small/progress-bar-95.png?raw=true"></td>
-      <td> 2 years</td>  
-    </tr>
-</table>
-<br/>
-<hr>
+
 <h2>Some of my Older Projects ↓</h2>
 <ul>
 <li>May 15, 2022 - <a href="https://monacodelisa.github.io/Speech-Text-Reader/" target="_blank"><strong>Speech Text Reader</strong></a> <a href="https://github.com/esteecodes/Speech-Text-Reader" target="_blank">[Code]</a> <img src="https://github.com/monacodelisa/icons-and-graphics/blob/main/icomoon/programming/PNG/js-sass-html-16px.png?raw=true"></li>
@@ -64,27 +20,7 @@
 </ul>
 <hr>
 
-<p>Before I got into Frontend programming, I worked as a freelance photographer,<br/> 
-photo & video editor, graphic designer, and throughout that time I acquired<br/> 
-some additional skills.</p>
-<table width="100%">
-    <tr>
-      <th><h3>Skill</h3></th>   
-      <th><h3>Proficiency</h3></th>  
-      <th><h3>Experience</h3></th>  
-    </tr>
-    <tr>
-      <td><img src="https://github.com/monacodelisa/icons-and-graphics/blob/main/icomoon/programming/PNG/adobephotoshop.png?raw=true"> Adobe Photoshop </td>
-      <td><img src="https://github.com/monacodelisa/icons-and-graphics/blob/main/progress-bar-small/progress-bar-95.png?raw=true"></td>
-      <td> 10 years</td>  
-    </tr>
-     <tr>
-      <td><img src="https://github.com/monacodelisa/icons-and-graphics/blob/main/icomoon/programming/PNG/adobeillustrator.png?raw=true"> Adobe Illustrator </td>
-      <td><img src="https://github.com/monacodelisa/icons-and-graphics/blob/main/progress-bar-small/progress-bar-55.png?raw=true"></td>
-      <td> 4 years</td>  
-    </tr>
-</table>
-<br>
+
 <!-- <h3>Connect with me on Social Media ↓</h3>
 <br/>
 <a href="https://www.linkedin.com/in/monacodelisa/" target="_blank"><img src="https://github.com/monacodelisa/icons/blob/main/icomoon/PNG/linkedin.png?raw=true"></a>
