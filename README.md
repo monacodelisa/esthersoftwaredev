@@ -5,11 +5,8 @@
 
 <h3><img src="https://github.com/monacodelisa/icons-and-graphics/blob/main/icomoon/programming/PNG/angular.png?raw=true"> Projects ↓</h3>
 <hr>
-<ul>
-<li><h3><a href="https://monacodelisa.com/" target="_blank">Portfolio Site</a></h3><p>includes projects from my Public & Private Repos</p>
-    <a href="https://collab-match.web.app/" target="_blank"><img src="https://github.com/monacodelisa/portfolio-2023-angular-dev/blob/main/portfolio-2023-angular/src/assets/images/monacodelisa-site.jpg?raw=true"></a>
-</li>
-</ul>
+<h3>Portfolio Site</h3><p>includes projects from my Public & Private Repos</p>
+    <a href="https://monacodelisa.com/" target="_blank"><img src="https://github.com/monacodelisa/portfolio-2023-angular-dev/blob/main/portfolio-2023-angular/src/assets/images/monacodelisa-site.jpg?raw=true"></a>
 <hr>
 
 <h3>Connect with me on Social Media ↓</h3>
