@@ -5,9 +5,18 @@
 
 <h3><img src="https://github.com/monacodelisa/icons-and-graphics/blob/main/icomoon/programming/PNG/angular.png?raw=true"> Projects ↓</h3>
 <hr>
+
+<!--
+|   |   |   |
+| - | - | - |
+| [<img src="https://github.com/monacodelisa/portfolio-2023-angular-dev/blob/main/portfolio-2023-angular/src/assets/images/monacodelisa-site.jpg?raw=true"  width="350">](https://monacodelisa.com/) |  [<img src="https://github.com/monacodelisa/portfolio-2023-angular-dev/blob/main/portfolio-2023-angular/src/assets/images/monacodelisa-site.jpg?raw=true"  width="350">](https://monacodelisa.com/) |  [<img src="https://github.com/monacodelisa/portfolio-2023-angular-dev/blob/main/portfolio-2023-angular/src/assets/images/monacodelisa-site.jpg?raw=true"  width="350">](https://monacodelisa.com/) |
+| <h3>Portfolio Site</h3><small> includes Public & Private Repos</small> | - | - |
+-->
+
 <h3>Portfolio Site</h3><p>includes projects from my Public & Private Repos</p>
     <a href="https://monacodelisa.com/" target="_blank"><img src="https://github.com/monacodelisa/portfolio-2023-angular-dev/blob/main/portfolio-2023-angular/src/assets/images/monacodelisa-site.jpg?raw=true"></a>
 <hr>
+
 
 <h3>Connect with me on Social Media ↓</h3>
 <br/>
