@@ -1,6 +1,6 @@
 #### Hi there 👋 I'm Estee and I am a -
 
-<h1>Frontend Web Developer</h1>
+<h1>FullStack Web Developer</h1>
 
 
 <h3><img src="https://github.com/monacodelisa/icons-and-graphics/blob/main/icomoon/programming/PNG/angular.png?raw=true"> Projects ↓</h3>
