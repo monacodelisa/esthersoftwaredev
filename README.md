@@ -13,7 +13,7 @@
 | <h3>My Portfolio Site</h3><small>The difference between my portfolio and GitHub is not only my beautiful design. On my portfolio website you van view both my Public & Private Repos</small> | - | - |
 -->
 
-<p>My portfolio, unlike GitHub, showcases not just my development skills <br> but also allows you to explore both my Public and Private Repositories.</p>
+<p>My portfolio, unlike GitHub, showcases not just my development skills <br> but also allows you to explore projects from both my Public and Private Repos.</p>
     <a href="https://monacodelisa.com/" target="_blank"><img width="500px" src="https://github.com/monacodelisa/portfolio-2023-angular-dev/blob/main/portfolio-2023-angular/src/assets/images/monacodelisa-site.jpg?raw=true"></a>
 <hr>
 
