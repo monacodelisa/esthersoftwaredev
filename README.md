@@ -1,20 +1,20 @@
 #### Hi there 👋 I'm Estee and I am a -
 
-<h1>FullStack Web Developer</h1>
+<h3 style="font-size: 2rem;">FullStack Web Developer</h3>
+<hr>
 
-
-<h3> Projects ↓</h3>
+<h3> View My Projects On My Portfolio Website ↓</h3>
 <hr>
 
 <!--
 |   |   |   |
 | - | - | - |
 | [<img src="https://github.com/monacodelisa/portfolio-2023-angular-dev/blob/main/portfolio-2023-angular/src/assets/images/monacodelisa-site.jpg?raw=true"  width="350">](https://monacodelisa.com/) |  [<img src="https://github.com/monacodelisa/portfolio-2023-angular-dev/blob/main/portfolio-2023-angular/src/assets/images/monacodelisa-site.jpg?raw=true"  width="350">](https://monacodelisa.com/) |  [<img src="https://github.com/monacodelisa/portfolio-2023-angular-dev/blob/main/portfolio-2023-angular/src/assets/images/monacodelisa-site.jpg?raw=true"  width="350">](https://monacodelisa.com/) |
-| <h3>Portfolio Site</h3><small> includes Public & Private Repos</small> | - | - |
+| <h3>My Portfolio Site</h3><small>The difference between my portfolio and GitHub is not only my beautiful design. On my portfolio website you van view both my Public & Private Repos</small> | - | - |
 -->
 
-<h3>Portfolio Site</h3><p>includes projects from my Public & Private Repos</p>
-    <a href="https://monacodelisa.com/" target="_blank"><img width="320px" height="180px" src="https://github.com/monacodelisa/portfolio-2023-angular-dev/blob/main/portfolio-2023-angular/src/assets/images/monacodelisa-site.jpg?raw=true"></a>
+<p>My portfolio, unlike GitHub, showcases not just my development skills <br> but also allows you to explore both my Public and Private Repositories.</p>
+    <a href="https://monacodelisa.com/" target="_blank"><img width="500px" src="https://github.com/monacodelisa/portfolio-2023-angular-dev/blob/main/portfolio-2023-angular/src/assets/images/monacodelisa-site.jpg?raw=true"></a>
 <hr>
 
 
