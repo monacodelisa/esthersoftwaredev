@@ -14,7 +14,7 @@
 -->
 
 <h3>Portfolio Site</h3><p>includes projects from my Public & Private Repos</p>
-    <a href="https://monacodelisa.com/" target="_blank"><img src="https://github.com/monacodelisa/portfolio-2023-angular-dev/blob/main/portfolio-2023-angular/src/assets/images/monacodelisa-site.jpg?raw=true"></a>
+    <a href="https://monacodelisa.com/" target="_blank"><img width="320px" height="180px" src="https://github.com/monacodelisa/portfolio-2023-angular-dev/blob/main/portfolio-2023-angular/src/assets/images/monacodelisa-site.jpg?raw=true"></a>
 <hr>
 
 
