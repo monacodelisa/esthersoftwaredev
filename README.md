@@ -14,7 +14,7 @@
 -->
 
 <p>My portfolio, unlike GitHub, showcases not just my development skills <br> but also allows you to explore projects from both my Public and Private Repos.</p>
-    <a href="https://monacodelisa.com/" target="_blank"><img width="500px" src="https://monacodelisa.com/assets/images/monacodelisa-site.jpg"></a>
+    <a href="https://monacodelisa.com/" target="_blank"><img width="500px" src="https://monacodelisa.com/assets/images/projects/monacodelisa-site.jpg"></a>
 <hr>
 
 
