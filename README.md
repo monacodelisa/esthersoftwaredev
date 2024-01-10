@@ -17,9 +17,10 @@
     <a href="https://monacodelisa.com/" target="_blank"><img width="500px" src="https://monacodelisa.com/assets/images/projects/monacodelisa-site.jpg"></a>
 <hr>
 
+| <p>Hire me on</p><a href='https://www.upwork.com/freelancers/~01d02763fe3eb55269' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://github.com/monacodelisa/icons-and-graphics/blob/main/upwork.png?raw=true' border='0' alt='Hire me on upwork' /></a> | <p>Or just</p><a href='https://ko-fi.com/monacodelisa' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> | 
+| - | -
 
 <h3>Connect with me on Social Media ↓</h3>
-<br/>
 <a href="https://www.linkedin.com/in/monacodelisa/" target="_blank"><img src="https://github.com/monacodelisa/icons-and-graphics/blob/main/icomoon/PNG/linkedin.png?raw=true"></a>
 <a href="https://codepen.io/monacodelisa" target="_blank"><img src="https://github.com/monacodelisa/icons-and-graphics/blob/main/icomoon/PNG/codepen.png?raw=true"></a>
 <a href="https://dev.to/monacodelisa" target="_blank"><img src="https://github.com/monacodelisa/icons-and-graphics/blob/main/icomoon/PNG/dev-dot-to.png?raw=true"></a>
@@ -28,11 +29,6 @@
 <a href="https://www.instagram.com/monacodelisa/" target="_blank"><img src="https://github.com/monacodelisa/icons-and-graphics/blob/main/icomoon/PNG/instagram.png?raw=true"></a>
 <a href="https://www.tiktok.com/@monacodelisa" target="_blank"><img src="https://github.com/monacodelisa/icons-and-graphics/blob/main/icomoon/PNG/tiktok.png?raw=true"></a>
 <a href="https://www.twitch.tv/monacodelisa" target="_blanc"><img src="https://github.com/monacodelisa/icons-and-graphics/blob/main/icomoon/PNG/twitch.png?raw=true"></a>
-<br><br>
-<a href='https://ko-fi.com/monacodelisa' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-<br><br>
-<a href='https://ko-fi.com/monacodelisa' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-<br>
 <br>
 
 <!--
