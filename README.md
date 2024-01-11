@@ -17,6 +17,11 @@
     <a href="https://monacodelisa.com/" target="_blank"><img width="500px" src="https://monacodelisa.com/assets/images/projects/monacodelisa-site.jpg"></a>
 <hr>
 
+<p>My GithubUnwrapped for 2023</p>
+
+[![Alt text](https://github.com/monacodelisa/icons-and-graphics/blob/main/github-unwrapped-sm-2023.jpg?raw=true)](https://www.youtube.com/embed/owg_Lwzv3oo)
+
+
 | <p>Hire me on</p><a href='https://www.upwork.com/freelancers/~01d02763fe3eb55269' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://github.com/monacodelisa/icons-and-graphics/blob/main/upwork.png?raw=true' border='0' alt='Hire me on upwork' /></a> | <p>Or just</p><a href='https://ko-fi.com/monacodelisa' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> | 
 | - | -
 
