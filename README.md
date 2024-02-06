@@ -1,6 +1,6 @@
 #### Hi there 👋 I'm Estee and I am a -
 
-<h3 style="font-size: 2rem;">FullStack Web Developer</h3>
+<h3 style="font-size: 2rem;"> 🅰 Angular FullStack Web Developer</h3>
 <hr>
 
 <h3> View My Projects On My Portfolio Website ↓</h3>
