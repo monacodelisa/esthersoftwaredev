@@ -10,9 +10,9 @@
 
 <h3 style="font-size: 2rem;">Open Source Maintainer & Lead Developer of:</h3>
 
-| AnguHashBlog | TechOpenSolve | TechShowcase | Winona UI |
-|---------|--------|--------|--------|
-| [![AnguHashBlog](https://avatars.githubusercontent.com/u/161918167?s=200&v=4)](https://github.com/anguhashblog) | [![TechOpenSolve](https://avatars.githubusercontent.com/u/168286093?s=200&v=4)](https://github.com/techOpenSolve) |  [![TechShowcase](https://avatars.githubusercontent.com/u/170303974?s=200&v=4)](https://github.com/TechShowcase) | [![Winona UI](https://avatars.githubusercontent.com/u/170120604?s=200&v=4)](https://github.com/winona-ui) |
+| Paidlancer | AnguHashBlog | TechShowcase | TechOpenSolve | Winona UI |
+|---------|--------|--------|--------|--------|
+| [![Paidlancer](https://avatars.githubusercontent.com/u/163386654?s=200&v=4)](https://github.com/PaidlancerDev) | [![AnguHashBlog](https://avatars.githubusercontent.com/u/161918167?s=200&v=4)](https://github.com/anguhashblog) | [![TechShowcase](https://avatars.githubusercontent.com/u/170303974?s=200&v=4)](https://github.com/TechShowcase) | [![TechOpenSolve](https://avatars.githubusercontent.com/u/168286093?s=200&v=4)](https://github.com/techOpenSolve) | [![Winona UI](https://avatars.githubusercontent.com/u/170120604?s=200&v=4)](https://github.com/winona-ui) |
 
 <h3 style="font-size: 2rem;">Interested in working with me</h3>
 
