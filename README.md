@@ -10,8 +10,8 @@ fullName: 'Esther White';
 username: "monacodelisa";
 }
 ```
-If in a conversation you address me as = estee.username.substring(0, 4); \
-you will not receive an answer, use my firstName or my nickname, not random parts of my username.
+If in a conversation you address me as = estee.username.substring(0, 4); you will not receive an answer, \
+please use my firstName or my nickname, not random parts of my username.
 
 <h3 style="font-size: 2rem;"> FullStack Web Developer</h3>
  
