@@ -1,4 +1,16 @@
-### Hi there 👋 I'm Estee 
+# Esther White {{ MonaCodeLisa }}
+
+<a href="https://gitroll.io/profile/un6UzaVwvxuQ98Y5xtzyohrasULu1" target="_blank"><img src="https://github.com/monacodelisa/images/blob/main/gitroll.png?raw=true" alt="GitRoll Profile Badge"/></a>
+
+```
+const estee = {
+nickname: 'Estee';
+fullName: 'Esther White';
+username: "monacodelisa";
+}
+```
+If in a conversation you address me as = estee.username.substring(0, 4); \
+you will not receive an answer, use my nickname not random parts of my username.
 
 <h3 style="font-size: 2rem;"> FullStack Web Developer</h3>
  
