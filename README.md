@@ -5,7 +5,7 @@
 ```
 const estee = {
 nickname: 'Estee';
-furstName: 'Esther';
+firstName: 'Esther';
 fullName: 'Esther White';
 username: "monacodelisa";
 }
