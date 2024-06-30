@@ -1,6 +1,6 @@
 # Esther White {{ MonaCodeLisa }}
 
-<a href="https://gitroll.io/profile/un6UzaVwvxuQ98Y5xtzyohrasULu1" target="_blank"><img src="https://github.com/monacodelisa/images/blob/main/gitroll.png?raw=true" alt="GitRoll Profile Badge"/></a>
+<a href="https://gitroll.io/profile/un6UzaVwvxuQ98Y5xtzyohrasULu1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/un6UzaVwvxuQ98Y5xtzyohrasULu1" alt="GitRoll Profile Badge"/></a>
 
 ```
 const estee = {
