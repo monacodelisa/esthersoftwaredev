@@ -23,9 +23,9 @@ please use my firstName or my nickname, not random parts of my username.
 
 <h3 style="font-size: 2rem;">Open Source Maintainer & Lead Developer of:</h3>
 
-| Paidlancer | AnguHashBlog | BuiltWithAnalog | TechOpenSolve | Winona UI |
-|---------|--------|--------|--------|--------|
-| [![Paidlancer](https://avatars.githubusercontent.com/u/163386654?s=200&v=4)](https://github.com/PaidlancerDev) | [![AnguHashBlog](https://avatars.githubusercontent.com/u/161918167?s=200&v=4)](https://github.com/anguhashblog) | [![BuiltWithAnalog](https://avatars.githubusercontent.com/u/170303974?s=200&v=4)](https://github.com/BuiltWithAnalog) | [![TechOpenSolve](https://avatars.githubusercontent.com/u/168286093?s=200&v=4)](https://github.com/techOpenSolve) | [![Winona UI](https://avatars.githubusercontent.com/u/170120604?s=200&v=4)](https://github.com/winona-ui) |
+| Paidlancer | AnguHashBlog | BuiltWithAnalog |  LGBTQ+ Definitions | TechOpenSolve | Winona UI |
+|---------|--------|--------|--------|--------|--------|
+| [![Paidlancer](https://avatars.githubusercontent.com/u/163386654?s=200&v=4)](https://github.com/PaidlancerDev) | [![AnguHashBlog](https://avatars.githubusercontent.com/u/161918167?s=200&v=4)](https://github.com/anguhashblog) | [![BuiltWithAnalog](https://avatars.githubusercontent.com/u/170303974?s=200&v=4)](https://github.com/BuiltWithAnalog) | [![LGBTQ+ Definitions](https://raw.githubusercontent.com/monacodelisa/LGBTQ-definitions/main/public/images/Gay_Pride_Flag.png)](https://github.com/monacodelisa/LGBTQ-definitions) | [![TechOpenSolve](https://avatars.githubusercontent.com/u/168286093?s=200&v=4)](https://github.com/techOpenSolve) | [![Winona UI](https://avatars.githubusercontent.com/u/170120604?s=200&v=4)](https://github.com/winona-ui) |
 
 <h3 style="font-size: 2rem;">Interested in working with me</h3>
 
