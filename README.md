@@ -33,9 +33,9 @@ please use my firstName or my nickname, not random parts of my username.
 | <p>Hire me on</p><a href='https://www.upwork.com/freelancers/~01d02763fe3eb55269' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://github.com/monacodelisa/icons-and-graphics/blob/main/upwork.png?raw=true' border='0' alt='Hire me on upwork' /></a> | <p>Or maybe</p><a href='https://ko-fi.com/monacodelisa' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> | 
 | - | -
 
-<h3 style="font-size: 2rem;">Book a mentorship session</h3>
+<!-- <h3 style="font-size: 2rem;">Book a mentorship session</h3> -->
 
-[![Mentoring at ADPList](https://raw.githubusercontent.com/monacodelisa/images/main/Your%20Mentor%20Swag-crop-300px.png)](https://adplist.org/mentors/esther-white)
+<!-- [![Mentoring at ADPList](https://raw.githubusercontent.com/monacodelisa/images/main/Your%20Mentor%20Swag-crop-300px.png)](https://adplist.org/mentors/esther-white) -->
 
 <h3>Connect with me on Social Media ↓</h3>
 <a href="https://www.linkedin.com/in/monacodelisa/" target="_blank"><img src="https://github.com/monacodelisa/icons-and-graphics/blob/main/icomoon/PNG/linkedin.png?raw=true"></a>
