@@ -18,9 +18,9 @@ please use my firstName or my nickname, not random parts of my username, or rand
 
 <h3 style="font-size: 2rem;">Open Source Maintainer & Lead Developer of:</h3>
 
-| TechShowcase |  Women In Tech | Built with Analog | TechOpenSolve | AnguHashBlog 
-|--------|--------|--------|--------|--------|
-| [![TechShowcase](https://raw.githubusercontent.com/monacodelisa/images/main/techshowcase-logo.jpg)](https://github.com/TechShowcase) | [![WomenInTech](https://raw.githubusercontent.com/monacodelisa/images/main/womenintech-logo.jpg)](https://github.com/TechShowcase/womenintech) | [![BuiltWithAnalog](https://raw.githubusercontent.com/monacodelisa/images/main/builtwithanalog-logo.jpg)](https://github.com/TechShowcase/builtwithanalog) | [![TechOpenSolve](https://raw.githubusercontent.com/monacodelisa/images/main/techopensolve-logo.jpg)](https://github.com/techOpenSolve) | [![AnguHashBlog](https://raw.githubusercontent.com/monacodelisa/images/main/anguhashblog-logo.jpg)](https://github.com/anguhashblog) |
+| TechShowcase |  Women In Tech |  TechOpenSolve | AnguHashBlog 
+|--------|--------|--------|--------|
+| [![TechShowcase](https://raw.githubusercontent.com/monacodelisa/images/main/techshowcase-logo.jpg)](https://github.com/TechShowcase) | [![WomenInTech](https://raw.githubusercontent.com/monacodelisa/images/main/womenintech-logo.jpg)](https://github.com/TechShowcase/womenintech) | [![TechOpenSolve](https://raw.githubusercontent.com/monacodelisa/images/main/techopensolve-logo.jpg)](https://github.com/techOpenSolve) | [![AnguHashBlog](https://raw.githubusercontent.com/monacodelisa/images/main/anguhashblog-logo.jpg)](https://github.com/anguhashblog) |
 
 <h3 style="font-size: 2rem;">Work with me:</h3>
 
