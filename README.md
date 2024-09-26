@@ -13,6 +13,7 @@
 
 | Project | Description and Tech |
 |--------|----------------------------|
+| [![Shared IDE - Free Editor](https://avatars.githubusercontent.com/u/182666542?s=200&v=4)](https://github.com/Shared-IDE/free-editor) | <h3>**Shared IDE - Free Editor**</h3> The open-source, standalone version of Shared IDE, offering a streamlined, single-user coding environment. <br><br> **Tech:** <br> • AnalogJS <br> • Angular Material UI |
 | [![TechShowcase](https://raw.githubusercontent.com/monacodelisa/images/main/techshowcase-logo.jpg)](https://github.com/TechShowcase) | <h3>**TechShowcase**</h3> Highlighting and celebrating individuals and projects in tech. <br><br> **Tech:** <br> • Angular <br> • Angular Material UI |
 | [![WomenInTech](https://raw.githubusercontent.com/monacodelisa/images/main/womenintech-logo.jpg)](https://github.com/TechShowcase/womenintech) | <h3>**WomenInTech**</h3> Community-driven project promoting women in technology. <br><br> **Tech:** <br> • Angular <br> • Angular Material UI |
 | [![TechOpenSolve](https://raw.githubusercontent.com/monacodelisa/images/main/techopensolve-logo.jpg)](https://github.com/techOpenSolve) | <h3>**TechOpenSolve**</h3> an open-source initiative to solve real-world tech problems. <br><br> **Tech:** <br> • Angular <br> • Angular Material UI <br> • GitHub API|
