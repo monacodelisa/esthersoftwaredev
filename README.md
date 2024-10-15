@@ -1,6 +1,6 @@
 # Esther White 
 {{ MonaCodeLisa }}
-<!-- <a href="https://gitroll.io/profile/un6UzaVwvxuQ98Y5xtzyohrasULu1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/un6UzaVwvxuQ98Y5xtzyohrasULu1" alt="GitRoll Profile Badge"/></a> -->
+<a href="https://gitroll.io/profile/un6UzaVwvxuQ98Y5xtzyohrasULu1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/un6UzaVwvxuQ98Y5xtzyohrasULu1" alt="GitRoll Profile Badge"/></a>
 <h2 style="font-size: 2rem;"> FullStack Web Developer</h2>
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=monacodelisa&theme=chartreuse-dark&langs_count=10&layout=compact)
@@ -17,7 +17,7 @@
 | [![TechShowcase](https://raw.githubusercontent.com/monacodelisa/images/main/techshowcase-logo.jpg)](https://github.com/TechShowcase) | <h3>**TechShowcase**</h3> Highlighting and celebrating individuals and projects in tech. <br><br> **Tech:** <br> • Angular <br> • Angular Material UI |
 | [![WomenInTech](https://raw.githubusercontent.com/monacodelisa/images/main/womenintech-logo.jpg)](https://github.com/TechShowcase/womenintech) | <h3>**WomenInTech**</h3> Community-driven project promoting women in technology. <br><br> **Tech:** <br> • Angular <br> • Angular Material UI |
 | [![TechOpenSolve](https://raw.githubusercontent.com/monacodelisa/images/main/techopensolve-logo.jpg)](https://github.com/techOpenSolve) | <h3>**TechOpenSolve**</h3> an open-source initiative to solve real-world tech problems. <br><br> **Tech:** <br> • Angular <br> • Angular Material UI <br> • GitHub API|
-| [![AnguHashBlog](https://raw.githubusercontent.com/monacodelisa/images/main/anguhashblog-logo.jpg)](https://github.com/anguhashblog) | <h3>**AnguHashBlog**</h3> Angular frontend for headless Hashnode blogs. <br><br> **Tech:** <br> • Angular <br> • AnalogJS <br> • Angular Material UI <br> • Prime NG |
+<!-- | [![AnguHashBlog](https://raw.githubusercontent.com/monacodelisa/images/main/anguhashblog-logo.jpg)](https://github.com/anguhashblog) | <h3>**AnguHashBlog**</h3> Angular frontend for headless Hashnode blogs. <br><br> **Tech:** <br> • Angular <br> • AnalogJS <br> • Angular Material UI <br> • Prime NG | -->
 
 
 <!-- | TechShowcase |  Women In Tech |  TechOpenSolve | AnguHashBlog 
