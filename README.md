@@ -20,7 +20,7 @@
 | [![TechShowcase](https://raw.githubusercontent.com/monacodelisa/images/main/techshowcase-logo.jpg)](https://github.com/TechShowcase) | <h3>**TechShowcase**</h3> Highlighting and celebrating individuals and projects in tech. <br><br> **Tech:** <br> • Angular <br> • Angular Material UI |
 | [![WomenInTech](https://raw.githubusercontent.com/monacodelisa/images/main/womenintech-logo.jpg)](https://github.com/TechShowcase/womenintech) | <h3>**WomenInTech**</h3> Community-driven project promoting women in technology. <br><br> **Tech:** <br> • Angular <br> • Angular Material UI |
 | [![TechOpenSolve](https://raw.githubusercontent.com/monacodelisa/images/main/techopensolve-logo.jpg)](https://github.com/techOpenSolve) | <h3>**TechOpenSolve**</h3> an open-source initiative to solve real-world tech problems. <br><br> **Tech:** <br> • Angular <br> • Angular Material UI <br> • GitHub API|
-<!-- | [![AnguHashBlog](https://raw.githubusercontent.com/monacodelisa/images/main/anguhashblog-logo.jpg)](https://github.com/anguhashblog) | <h3>**AnguHashBlog**</h3> Angular frontend for headless Hashnode blogs. <br><br> **Tech:** <br> • Angular <br> • AnalogJS <br> • Angular Material UI <br> • Prime NG | -->
+| [![AnguHashBlog](https://raw.githubusercontent.com/monacodelisa/images/main/anguhashblog-logo.jpg)](https://github.com/anguhashblog) | <h3>**AnguHashBlog**</h3> Angular frontend for headless Hashnode blogs. <br><br> **Tech:** <br> • Angular <br> • AnalogJS <br> • Angular Material UI <br> • Prime NG | 
 
 
 <!-- | TechShowcase |  Women In Tech |  TechOpenSolve | AnguHashBlog 
