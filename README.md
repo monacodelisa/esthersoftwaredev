@@ -40,12 +40,13 @@ I provide premium and free mentorship.
 
 I am fluent in 3+ languages.
 
-```
+```js
 const estee = {
-  nickname: 'Estee';
-  firstName: 'Esther';
-  fullName: 'Esther White';
-  username: "monacodelisa";
+  nickname: 'Estee',
+  firstName: 'Esther',
+  lastName: 'White',
+  fullName: 'Esther White',
+  username: 'monacodelisa',
 }
 ```
 
