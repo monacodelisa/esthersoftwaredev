@@ -50,8 +50,8 @@ const estee = {
 }
 ```
 
-If in a conversation you address me as = estee.username.substring(0, 4); you will not receive an answer, \
-please use my firstName or my nickname, not random parts of my username, or random sounds put together.
+If in a conversation you address me as = `estee.username.substring(0, 4);` you will not receive an answer, \
+please use my `firstName` or my `nickname`, not random parts of my `username`, or random sounds put together.
 
 <!-- <h3 style="font-size: 2rem;">Book a mentorship session</h3> -->
 <!-- [![Mentoring at ADPList](https://raw.githubusercontent.com/monacodelisa/images/main/Your%20Mentor%20Swag-crop-300px.png)](https://adplist.org/mentors/esther-white) -->
