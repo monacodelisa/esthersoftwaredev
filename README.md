@@ -38,14 +38,14 @@
 
 I provide premium and free mentorship.
 
-I am fulent in 3+ languages.
+I am fluent in 3+ languages.
 
 ```
 const estee = {
-nickname: 'Estee';
-firstName: 'Esther';
-fullName: 'Esther White';
-username: "monacodelisa";
+  nickname: 'Estee';
+  firstName: 'Esther';
+  fullName: 'Esther White';
+  username: "monacodelisa";
 }
 ```
 
