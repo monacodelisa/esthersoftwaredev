@@ -17,7 +17,8 @@
 | Project | Description and Tech |
 |--------|----------------------------|
 | [![Shared IDE - Free Editor](https://avatars.githubusercontent.com/u/182666542?s=200&v=4)](https://github.com/Shared-IDE/free-editor) | <h3>**Shared IDE - Free Editor**</h3> The open-source, standalone version of Shared IDE, offering a streamlined, single-user coding environment. <br><br> **Tech:** <br> • AnalogJS <br> • Angular Material UI |
-| [![TechShowcase](https://raw.githubusercontent.com/monacodelisa/images/main/techshowcase-logo.jpg)](https://github.com/TechShowcase-dev) | <h3>**TechShowcase**</h3> Highlighting and celebrating individuals and projects in tech. <br><br> **Tech:** <br> • Angular <br> • Angular Material UI |
+| [![Women in Software Dev](https://avatars.githubusercontent.com/u/188832671?s=200&v=4)](https://github.com/orgs/WomenInSoftwareDev) | <h3>**WomenInSoftwareDev**</h3> Highlighting and celebrating individuals and projects in tech. <br><br> **Tech:** <br> • Angular <br> • Angular Material UI |
+| [![CodeSpotlight](https://avatars.githubusercontent.com/u/170303974?s=200&v=4)](https://github.com/CodeSpotlight) | <h3>**CodeSpotlight**</h3> Highlighting and celebrating individuals and projects in tech. <br><br> **Tech:** <br> • Angular <br> • Angular Material UI <br> • AnalogJS |
 | [![TechOpenSolve](https://raw.githubusercontent.com/monacodelisa/images/main/techopensolve-logo.jpg)](https://github.com/techOpenSolve) | <h3>**TechOpenSolve**</h3> an open-source initiative to solve real-world tech problems. <br><br> **Tech:** <br> • Angular <br> • Angular Material UI <br> • GitHub API|
 | [![AnguHashBlog](https://raw.githubusercontent.com/monacodelisa/images/main/anguhashblog-logo.jpg)](https://github.com/anguhashblog) | <h3>**AnguHashBlog**</h3> Angular frontend for headless Hashnode blogs. <br><br> **Tech:** <br> • Angular <br> • AnalogJS <br> • Angular Material UI <br> • Prime NG | 
 
