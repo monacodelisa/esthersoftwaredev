@@ -1,5 +1,5 @@
 # Esther White 
-{{ MonaCodeLisa }}
+
 <!-- <a href="https://gitroll.io/profile/un6UzaVwvxuQ98Y5xtzyohrasULu1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/un6UzaVwvxuQ98Y5xtzyohrasULu1" alt="GitRoll Profile Badge"/></a> -->
 <h2 style="font-size: 2rem;"> FullStack Web Developer</h2> 
 
@@ -40,18 +40,7 @@ I provide premium and free mentorship.
 
 I am fluent in 3+ languages.
 
-```js
-const estee = {
-  nickname: 'Estee',
-  firstName: 'Esther',
-  lastName: 'White',
-  fullName: 'Esther White',
-  username: 'monacodelisa',
-}
-```
-
-If in a conversation you address me as = `estee.username.substring(0, 4);` you will not receive an answer, \
-please use my `firstName` or my `nickname`, not random parts of my `username`, or random sounds put together.
+previously cnown as {{ MonaCodeLisa }}
 
 <!-- <h3 style="font-size: 2rem;">Book a mentorship session</h3> -->
 <!-- [![Mentoring at ADPList](https://raw.githubusercontent.com/monacodelisa/images/main/Your%20Mentor%20Swag-crop-300px.png)](https://adplist.org/mentors/esther-white) -->
